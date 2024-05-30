@@ -28,9 +28,13 @@ You can add more languages for OCR by downloading the appropriate language data 
 2. Download the desired language data file (`.traineddata`).
 3. Place the downloaded file in your Tesseract `tessdata` directory.
 
+## To Run Automatically
+
+Run the `run.cmd` file you you wont need to do the next steps
+
 ## To Run it
 
-To run the program you just need to use app.py
+To run the program type this in cmd file directory
 
 ```sh
 python app.py
