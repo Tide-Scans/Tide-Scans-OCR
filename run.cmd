@@ -15,3 +15,6 @@ python app.py
 
 REM Deactivate the virtual environment
 deactivate
+
+REM Close the command prompt window
+exit
