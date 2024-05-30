@@ -30,7 +30,7 @@ You can add more languages for OCR by downloading the appropriate language data 
 
 ## To Run Automatically
 
-Run the `run.cmd` file you you wont need to do the next steps
+Run the `run.cmd` file, you wont need to do the next steps if you run this file.
 
 ## To Run it
 
