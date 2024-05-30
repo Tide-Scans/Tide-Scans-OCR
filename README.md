@@ -28,15 +28,15 @@ You can add more languages for OCR by downloading the appropriate language data 
 2. Download the desired language data file (`.traineddata`).
 3. Place the downloaded file in your Tesseract `tessdata` directory.
 
+## To Run it
+
+To run the program you just need to use app.py
+
+python app.py
+
 ## Requirements
 
 Install the required dependencies using the `requirements.txt` file:
 
 ```sh
 pip install -r requirements.txt
-
-## To Run it
-
-To run the program you just need to use app.py
-
-python app.py
