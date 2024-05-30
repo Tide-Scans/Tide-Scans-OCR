@@ -32,7 +32,9 @@ You can add more languages for OCR by downloading the appropriate language data 
 
 To run the program you just need to use app.py
 
+```sh
 python app.py
+```
 
 ## Requirements
 
